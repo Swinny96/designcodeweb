@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 import styled from "styled-components"
-import { H1, MediumText } from "./HeroSection.tsx"
 
 function HeroSection() {
   return (
